@@ -31,7 +31,6 @@
 `code line` console.log
 
 ## Code Block
-
 ```
 const juice = "Fresh"
 const flavours = {
