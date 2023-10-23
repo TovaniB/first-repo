@@ -21,6 +21,6 @@
 
 
 ## Image
-![Let´s Go](./Lets go image.jpg)
+![Let´s Go](./Lets-go-image.jpg)
 
 
