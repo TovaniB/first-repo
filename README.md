@@ -14,3 +14,7 @@
 - First Item
 - Second Itmen
 - Third Item
+
+
+## Link to a page
+[spiced Academy](https://www.google.com/search?client=firefox-b-d&q=bootcamp+spiced+academy)
