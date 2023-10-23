@@ -31,3 +31,12 @@
 `code line` console.log
 
 ## Code Block
+
+```
+const juice = "Fresh"
+const flavours = {
+"firstJuice"; "Orange",
+"secondJuice"; "Apple",
+"yearOfProduction": 2023
+}
+```
