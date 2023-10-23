@@ -27,3 +27,5 @@
 # Code
 
 ## Code Line
+
+`code line` console.log
